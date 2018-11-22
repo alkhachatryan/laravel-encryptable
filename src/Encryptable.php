@@ -1,7 +1,7 @@
 <?php
 
-namespace Alkhachatryan\Encryptable;
 
+namespace Alkhachatryan\Encryptable;
 use Illuminate\Support\Facades\Crypt;
 
 trait Encryptable
