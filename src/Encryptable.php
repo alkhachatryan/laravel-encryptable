@@ -1,7 +1,7 @@
 <?php
 
-
 namespace Alkhachatryan\Encryptable;
+
 use Illuminate\Support\Facades\Crypt;
 
 trait Encryptable
@@ -17,7 +17,6 @@ trait Encryptable
         $value = parent::getAttribute($key);
 
         if (in_array($key, $this->encryptable)) {
-
             $value = Crypt::decrypt($value);
         }
 
