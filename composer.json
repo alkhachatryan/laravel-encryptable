@@ -1,0 +1,18 @@
+{
+    "name": "alkhachatryan/encryptable",
+    "description": "Laravel package tool to encrypt and decrypt the database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Khachatryan",
+            "email": "info@khachatryan.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "alkhachatryan\\encryptable\\": "src"
+        }
+    }
+}
