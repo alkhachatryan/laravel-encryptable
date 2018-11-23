@@ -1,10 +1,22 @@
-# encryptable
+# Encryptable
+
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Total Downloads][ico-downloads]][link-downloads]
+[![Build Status][ico-travis]][link-travis]
+
+
 Laravel package to encrypt / decrypt the database tables / columns
 
-# Installation
-```sh
-composer require alkhachatryan/encryptable
-````
+
+## Installation
+
+Via Composer
+
+``` bash
+$ composer require alkhachatryan/encryptable
+```
+
+## Usage
 
 ```php
 class User extends Model
@@ -23,4 +35,26 @@ class User extends Model
 }
 ```
 
-That's all you must to do :)
+
+## Security
+
+If you discover any security related issues, please email author email instead of using the issue tracker.
+
+## Credits
+
+- [Alexey Khachatryan][link-author]
+- [All Contributors][link-contributors]
+
+## License
+
+license. Please see the [license file](license.md) for more information.
+
+[ico-version]: https://img.shields.io/packagist/v/alkhachatryan/encryptable.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/alkhachatryan/encryptable.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/alkhachatryan/encryptable/master.svg?style=flat-square
+[ico-styleci]: https://styleci.io/repos/12345678/shield
+
+[link-packagist]: https://packagist.org/packages/alkhachatryan/encryptable
+[link-downloads]: https://packagist.org/packages/alkhachatryan/encryptable
+[link-author]: https://github.com/alkhachatryan
+
