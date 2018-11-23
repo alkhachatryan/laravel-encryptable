@@ -2,7 +2,6 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
 
 
 Laravel package to encrypt / decrypt the database tables / columns
@@ -43,7 +42,6 @@ If you discover any security related issues, please email author email instead o
 ## Credits
 
 - [Alexey Khachatryan][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
