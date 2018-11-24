@@ -12,7 +12,7 @@ Laravel package to encrypt / decrypt the database tables / columns
 Via Composer
 
 ``` bash
-$ composer require alkhachatryan/encryptable:dev-master
+$ composer require alkhachatryan/encryptable
 ```
 
 ## Usage
