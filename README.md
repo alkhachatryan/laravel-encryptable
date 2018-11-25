@@ -1,7 +1,5 @@
 # Encryptable
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
 
 
 Laravel package to encrypt / decrypt the database tables / columns
