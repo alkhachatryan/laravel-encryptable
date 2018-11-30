@@ -18,12 +18,5 @@
         "psr-4": {
             "Alkhachatryan\\Encryptable\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Alkhachatryan\\Encryptable\\EncryptableServiceProvider"
-            ]
-        }
     }
 }
