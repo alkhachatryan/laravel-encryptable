@@ -34,6 +34,9 @@ class User extends Model
 }
 ```
 
+## Supported Laravel Versions
+* 5.7.*
+* 5.8.*
 
 ## Security
 
